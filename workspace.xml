@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be49db40-357a-47fc-ab19-941ff365fcea" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\00program\repository" />
+        <option name="mavenHome" value="I:\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="I:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28aS8ci9p7Zd9zli7zc5EtDcat4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/lzy/com/fabric" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Java\AutoObservatuib\src\main\java\lzy\com\fabric" />
+      <recent name="G:\Java\AutoObservatuib\src\main" />
+      <recent name="G:\Java\AutoObservatuib\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Users\李奇霖\.jdks\corretto-1.8.0_322\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AutoObservation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.test" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="AutoObservation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.AppTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AppTest.test" />
+      <item itemvalue="应用程序.Main" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="be49db40-357a-47fc-ab19-941ff365fcea" name="默认变更列表" comment="" />
+      <created>1651453046087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651453046087</updated>
+      <workItem from="1651453047679" duration="2199000" />
+      <workItem from="1651455280028" duration="12742000" />
+      <workItem from="1651538015185" duration="7311000" />
+      <workItem from="1651806495240" duration="1365000" />
+      <workItem from="1651922047396" duration="611000" />
+      <workItem from="1651998870108" duration="1488000" />
+      <workItem from="1652665688260" duration="3703000" />
+      <workItem from="1652747781561" duration="6991000" />
+      <workItem from="1652830960216" duration="9695000" />
+      <workItem from="1652842890614" duration="591000" />
+      <workItem from="1652946594249" duration="1295000" />
+      <workItem from="1653008356083" duration="1161000" />
+      <workItem from="1653347447447" duration="1592000" />
+      <workItem from="1653349433493" duration="39000" />
+      <workItem from="1653349506141" duration="4308000" />
+      <workItem from="1653433965987" duration="823000" />
+      <workItem from="1653807572873" duration="3373000" />
+      <workItem from="1653887075135" duration="1355000" />
+      <workItem from="1653978106504" duration="13450000" />
+      <workItem from="1654006937442" duration="1167000" />
+      <workItem from="1654042624230" duration="5521000" />
+      <workItem from="1654052594063" duration="12896000" />
+      <workItem from="1654087571004" duration="6041000" />
+      <workItem from="1654129505083" duration="7099000" />
+      <workItem from="1654218455419" duration="893000" />
+      <workItem from="1654476484953" duration="10761000" />
+      <workItem from="1654498496200" duration="960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
